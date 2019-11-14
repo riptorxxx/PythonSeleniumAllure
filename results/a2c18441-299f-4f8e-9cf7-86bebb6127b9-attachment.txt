@@ -1,0 +1,4 @@
+Connection fail
+Success open SmartPay-Portal
+Bad Login
+Success negative test case. Authorization Error - bad login
